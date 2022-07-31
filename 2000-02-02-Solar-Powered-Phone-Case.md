@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Tyler Cuomo
-Megan Bennett
+author: Tyler Cuomo, Megan Bennett
 show_sidebar: false
 ---
 
